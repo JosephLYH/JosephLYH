@@ -1,6 +1,6 @@
 Hi there, I'm Joseph 👋
 
-Personal website: [josephlyh.github.io](josephlyh.github.io)
+Personal website: [https://josephlyh.github.io](https://josephlyh.github.io))
 
 Blog posts coming up soon!
 
