@@ -1,8 +1,6 @@
 Hi there, I'm Joseph 👋
 
-Personal website: [https://josephlyh.github.io](https://josephlyh.github.io)
-
-Blog posts coming up soon!
+Personal website and blog: [https://josephlyh.github.io](https://josephlyh.github.io)
 
 <!--
 **JosephLYH/JosephLYH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
